@@ -1,8 +1,10 @@
-# testApp
+# Payment Ui App
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started 
+
+<img width="360" height="620" src='https://user-images.githubusercontent.com/47949413/100479101-36e44000-3113-11eb-93b0-28846a7b3ec5.png"/>
 
 This project is a starting point for a Flutter application.
 
