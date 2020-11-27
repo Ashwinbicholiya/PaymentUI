@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started 
 
-<img width="360" height="620" src='https://user-images.githubusercontent.com/47949413/100479101-36e44000-3113-11eb-93b0-28846a7b3ec5.png"/>
+<img width="360" height="620" src="https://user-images.githubusercontent.com/47949413/100479304-cd186600-3113-11eb-8196-d931a271fd54.png"/>
 
 This project is a starting point for a Flutter application.
 
